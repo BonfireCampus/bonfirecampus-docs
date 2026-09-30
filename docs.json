@@ -19,7 +19,11 @@
       },
       {
         "group": "Policies & Legal",
-        "pages": []
+        "pages": [
+          "child-safety-policy",
+          "terms-of-service",
+          "privacy-policy"
+        ]
       }
     ]
   },
@@ -66,5 +70,12 @@
       "github": "https://github.com/BonfireCampus",
       "website": "https://github.com/BonfireCampus/bonfirecampus-docs"
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "/untitled-page",
+      "destination": "/terms-of-service",
+      "permanent": true
+    }
+  ]
 }
