@@ -34,8 +34,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg",
+    "light": "/images/bonfirecampuslogo.png",
+    "dark": "/images/bonfirecampuslogo.png",
     "href": "https://bonfirecampus.com"
   },
   "navbar": {
