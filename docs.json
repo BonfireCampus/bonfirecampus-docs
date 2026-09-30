@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "linden",
+  "theme": "luma",
   "name": "Bonfire Campus",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#F0442E",
+    "light": "#FFF4EE",
+    "dark": "#171C24"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -39,16 +39,10 @@
     "href": "https://bonfirecampus.com"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:support@mintlify.com"
-      }
-    ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "label": "Campus Site",
+      "href": "https://bonfirecampus.com"
     }
   },
   "contextual": {
@@ -59,21 +53,22 @@
       "claude",
       "perplexity",
       "mcp",
-      "cursor",
-      "vscode"
+      "cursor"
     ]
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
   },
   "errors": {
     "404": {
       "redirect": false
     }
   },
-  "description": "Bonfire Campus Education; Documentation Site"
+  "description": "Bonfire Campus Education; Documentation Site",
+  "background": {
+    "decoration": "gradient"
+  },
+  "appearance": {
+    "strict": true
+  },
+  "interaction": {
+    "drilldown": false
+  }
 }
