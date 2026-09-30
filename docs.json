@@ -35,7 +35,8 @@
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/dark.svg",
+    "href": "https://bonfirecampus.com"
   },
   "navbar": {
     "links": [
@@ -67,6 +68,11 @@
       "x": "https://x.com/mintlify",
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
+    }
+  },
+  "errors": {
+    "404": {
+      "redirect": false
     }
   }
 }
