@@ -56,5 +56,11 @@
   },
   "interaction": {
     "drilldown": false
+  },
+  "footer": {
+    "socials": {
+      "github": "https://github.com/BonfireCampus",
+      "website": "https://github.com/BonfireCampus/bonfirecampus-docs"
+    }
   }
 }
