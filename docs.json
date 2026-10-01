@@ -37,7 +37,13 @@
       "type": "button",
       "label": "Campus Site",
       "href": "https://bonfirecampus.com"
-    }
+    },
+    "links": [
+      {
+        "href": "https://bonfirecampus.com/support-portal",
+        "label": "Support Portal"
+      }
+    ]
   },
   "contextual": {
     "options": [
