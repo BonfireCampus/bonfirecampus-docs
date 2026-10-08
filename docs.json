@@ -42,6 +42,10 @@
       {
         "href": "https://bonfirecampus.com/support-portal",
         "label": "Support Portal"
+      },
+      {
+        "href": "https://bonfirecampus.statuspage.io/",
+        "label": "Statuspage"
       }
     ]
   },
